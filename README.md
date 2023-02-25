@@ -9,7 +9,7 @@ I can't list it all but one of the things I like the most is to discover somethi
 
 
 **Come to me and say Hi 😄**
-[![Linkedin](/linkedin.svg)](https://www.linkedin.com/in/joffreyludovici/) [![Twitter](/twitter.svg)](https://twitter.com/LudovJoe) [![MyCV](/cv.svg)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joffreyludovici/) [![Twitter](/twitter.svg)](https://twitter.com/LudovJoe)
 **[My CodingGame ](https://www.codingame.com/profile/ac94e4d48594e9a4b2d43b2c7c0e8f783191264)**  
 **[My SoloLearn ](https://www.sololearn.com/profile/8896673)**
 ____
